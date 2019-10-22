@@ -2,7 +2,7 @@
   "name": "@flyin/eslint-config",
   "version": "0.1.0",
   "description": "eslint typescript config",
-  "repository": "flyin/eslint-typescript-config",
+  "repository": "flyin/eslint-config",
   "author": "Alexander Polesov <dev@alex-web.ru>",
   "license": "MIT",
   "main": "index.js",
