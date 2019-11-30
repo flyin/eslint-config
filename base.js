@@ -13,11 +13,6 @@ module.exports = {
         'plugin:jest/recommended',
         'plugin:prettier/recommended',
     ],
-    env: {
-        node: true,
-        browser: false,
-        jest: true,
-    },
     parserOptions: {
         ecmaVersion: 2019,
         sourceType: 'module',
