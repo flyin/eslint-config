@@ -1,6 +1,6 @@
 {
   "name": "flyin-eslint-config",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "eslint typescript config",
   "repository": "https://github.com/flyin/eslint-config",
   "author": "Alexander Polesov <dev@polesov.com>",

@@ -10,7 +10,7 @@ module.exports = {
         'import/prefer-default-export': 'off',
         'import/no-default-export': 'off',
         '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
-        '@typescript-eslint/explicit-module-boundary-types': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 0,
         '@typescript-eslint/explicit-function-return-type': 0,
 
         '@typescript-eslint/member-delimiter-style': [
