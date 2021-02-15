@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = {
     extends: './base',
 
@@ -8,4 +6,4 @@ module.exports = {
         browser: false,
         jest: true,
     },
-};
+}
